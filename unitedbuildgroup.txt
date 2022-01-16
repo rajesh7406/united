@@ -1,0 +1,108 @@
+TO DO LIST:
+1. Add Business Portfolio Page
+http://samsungengineering.com/business/unit/common/buView
+
+
+2. Make Services page awesome
+Similar to: https://www.metacuae.com/spectrum.php
+
+3. Policy Page
+https://www.metacuae.com/qualitypolicy.php
+
+
+4. Copy client page
+https://www.metacuae.com/clients.php
+
+
+5. About Page
+https://www.metacuae.com/spectrum.php
+https://www.metacuae.com/about.php
+
+
+
+
+
+Home
+ 1. Facility Management
+ 2. United Engineering
+
+
+
+1. Facility Management
+ 1. HOME
+	- United FMS
+
+ 2.i ABOUT US
+	- About Us
+	- Who We
+	- Why We
+ 3. Services
+	- FM Services
+	- Hospitality Services
+	- Security Services
+	- Pest Control
+	- Kitchen Extract and Supply Duct Work
+
+ 4. Cleaning
+	- Commercail Cleaning
+	- Contract Cleaning
+	- Retail Cleaning
+
+
+
+1. United Engineering
+ 1. HOME
+	- United Engineering
+
+ 2.i ABOUT US
+	- About Us
+	- Who We
+	- Why We
+
+ 3. Policies
+	- Quality
+	- Health & Service
+	- Environmental
+
+ 4. Services
+	- General Contracting
+	- MEP Contracting
+
+ 4. Strength
+
+ 5. Client
+
+
+
+
+
+
+
+
+
+
+Home Page
+https://en.hdec.kr/en/main.aspx
+
+
+About us
+https://www.metacuae.com/
+with animation , moving pictures
+
+
+Copy from Business page
+samsungengineering.com
+
+2. Policies Page, 
+Our Strength Page,
+Client Page,
+metacuae.com
+
+
+
+
+
+
+
+
+

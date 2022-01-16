@@ -1,0 +1,96 @@
+/* Services pages */
+.about_content p {
+    text-align: justify;
+}
+
+.ucontainer {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.ucontainer ul li {
+    list-style-type: disc;
+    list-style-position: inside;
+    color: #000;
+}
+
+
+.bg-white{
+    background-color: #fff!important;
+}
+/* Services pages */
+
+
+* {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+@media only screen and (min-width: 600px) {
+    .logo-pos {
+        margin-left: -130px;
+    }
+
+    .nav-pos {
+        margin-left: 330px;
+        /* right: 0px; */
+        /* margin-right: -80px; */
+        /* max-width: 600px; */
+    }
+}
+
+.shadowbox {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.united-green {
+    color: #2A2D2E !important;
+    font-family: 'Titillium Web', sans-serif !important;
+}
+
+.vcontainer {
+    position: relative;
+}
+
+p {
+    font-size: 1.1rem;
+    color: #000;
+    line-height: 1.5rem;
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.overlay01 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    top: 50%;
+    color: #fff;
+    font-size: 3.7em;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: bold;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.parallax {
+    /* The image used */
+    background-image: url("../images/facility.jpg");
+
+    /* Set a specific height */
+    min-height: 500px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
