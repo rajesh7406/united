@@ -201,8 +201,5 @@
 
 
     <?php
-    include_once('client.php');
-    ?>
-    <?php
     include_once('footer.php');
     ?>
