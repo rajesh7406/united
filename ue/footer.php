@@ -20,6 +20,72 @@
     </section>
 </div>
 <!--====== CALL TO ACTION PART ENDS ======-->
+<!--====== CALL TO ACTION PART START ======-->
+<div class="card">
+    <section class="call_to_action_area pt-20 pb-70">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-9">
+                    <div class="call_to_action_content mt-45">
+                        <h4 class="title united-green mb-3">United Build Group</h4>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="call_to_action_content mt-45">
+                        <div class="title">
+                            <button class="main-btn shadowbox">Request Service</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+<!--====== CALL TO ACTION PART ENDS ======-->
+<!--====== CALL TO ACTION PART START ======-->
+<div class="card">
+    <section class="call_to_action_area pt-20 pb-70">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-9">
+                    <div class="call_to_action_content mt-45">
+                        <h4 class="title united-green mb-3">United Build Group</h4>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="call_to_action_content mt-45">
+                        <div class="title">
+                            <button class="main-btn shadowbox">Request Service</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+<!--====== CALL TO ACTION PART ENDS ======-->
+<!--====== CALL TO ACTION PART START ======-->
+<div class="card">
+    <section class="call_to_action_area pt-20 pb-70">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-9">
+                    <div class="call_to_action_content mt-45">
+                        <h4 class="title united-green mb-3">United Build Group</h4>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="call_to_action_content mt-45">
+                        <div class="title">
+                            <button class="main-btn shadowbox">Request Service</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+<!--====== CALL TO ACTION PART ENDS ======-->
 
 <!--====== FOOTER PART START ======-->
 <footer class="footer_area">
