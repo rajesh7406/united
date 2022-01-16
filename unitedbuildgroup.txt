@@ -19,6 +19,18 @@ https://www.metacuae.com/spectrum.php
 https://www.metacuae.com/about.php
 
 
+Git Setup
+1. git init
+2. git remote add origin https://github.com/TrickuWeb/united.git
+3. git add *
+4. git commit -m "first commit"
+
+
+Git Command
+1. git status
+
+
+
 
 
 

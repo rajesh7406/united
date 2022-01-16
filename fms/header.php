@@ -64,7 +64,6 @@
                                 <li>
                                     <a href="#">FACILITIES <span class="line"></span></a>
                                     <ul class="sub-menu">
-                                        <li><a href="fms-services.php">Facilities Management</a></li>
                                         <li><a href="hospitality-services.php">Hospitality Services</a></li>
                                         <li><a href="security-services.php">Security Services</a></li>
                                         <li><a href="pest-control.php">Pest Control</a></li>
